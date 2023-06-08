@@ -1,7 +1,7 @@
 # Quarter-Top-Songs
 
 ## Description
-The purpose of this lab is to generate a soundtrack list of last quarter's top songs for a music record company. The report must include each week's top 200 songs in the U.S for one fiscal quarter, in ascending order.
+The purpose of this project is to generate a soundtrack list of last quarter's top songs for a music record company. The report must include each week's top 200 songs in the U.S for one fiscal quarter, in ascending order.
 
 ## Instruction
 The way we obtain this report is as follows:
